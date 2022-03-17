@@ -10,3 +10,5 @@ Jesse Zhao handled creation of character sprite art and background
 Alina Wang handled creation of obstacles sprite art
 
 All three handled coding and error processing in a collaborative manner
+
+None of the students had extensive coding experience prior to this class
